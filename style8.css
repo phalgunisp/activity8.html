@@ -2,14 +2,6 @@ ol{
     list-style-type: uppercase-roman;
   }
   
-  ol ol {
-    list-style-type: uppercase-roman;
-  }
-  
-  ol ol ol {
-    list-style-type: decimal;
-  }
-  
   li.comp { 
     background-color: pink;
   }
