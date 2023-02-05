@@ -1,0 +1,21 @@
+ol{
+    list-style-type: uppercase-roman;
+  }
+  
+  ol ol {
+    list-style-type: uppercase-roman;
+  }
+  
+  ol ol ol {
+    list-style-type: decimal;
+  }
+  
+  li.comp { 
+    background-color: pink;
+  }
+  li.mid {
+    background-color: rgb(251, 158, 174);
+  }
+  li.sports {
+    background-color: rgb(251, 119, 141);
+  }
