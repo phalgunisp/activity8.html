@@ -1,6 +1,6 @@
-ol{
-    list-style-type: uppercase-roman;
-  }
+.roman{
+    list-style-type: upper-roman;
+}
   
   li.comp { 
     background-color: pink;
